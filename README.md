@@ -105,7 +105,3 @@ Suggested assets:
 - Add screenshots and a short demo GIF.
 - Add deployment notes for a public demo environment.
 - Add a concise system design document for recruiters and technical reviewers.
-
-## CV Summary
-
-Built FAITH, a full-stack misinformation analysis platform that traces source propagation, extracts factual claims, and verifies them using retrieval-augmented generation. Developed a Next.js/Prisma frontend, Python async analysis worker, PostgreSQL-backed processing pipeline, and FastAPI/LightRAG verification service.
