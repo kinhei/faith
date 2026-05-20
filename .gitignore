@@ -1,0 +1,10 @@
+.DS_Store
+
+# Keep this umbrella repository focused on presentation files.
+# The component projects are separate GitHub repositories linked from README.md.
+faith-backend/
+faith-frontend/
+faith-rag/
+
+# Local notes and large source materials.
+Detailed_project_plan.pdf
