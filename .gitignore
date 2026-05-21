@@ -1,10 +1,12 @@
 .DS_Store
 
 # Keep this umbrella repository focused on presentation files.
-# The component projects are separate GitHub repositories linked from README.md.
+# Component projects are separate GitHub repositories linked from README.md.
 faith-backend/
 faith-frontend/
 faith-rag/
+faith-model/
 
 # Local notes and large source materials.
 Detailed_project_plan.pdf
+OpenDataLab___NELA-GT-2018/

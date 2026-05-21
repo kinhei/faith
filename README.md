@@ -11,6 +11,7 @@ The project combines a web interface, an asynchronous analysis worker, and a ded
 | [faith-frontend](https://github.com/kinhei/faith-frontend) | User interface, authentication, graph visualization, report views, and Prisma-backed application data | Next.js, React, Prisma, PostgreSQL |
 | [faith-backend](https://github.com/kinhei/faith-backend) | Async worker for scraping, source expansion, analysis pipelines, claim extraction, and report orchestration | Python, SQLAlchemy, PostgreSQL, Playwright, spaCy |
 | [faith-rag](https://github.com/kinhei/faith-rag) | Retrieval-augmented claim verification API used by the backend report workflow | FastAPI, LightRAG, SQLAlchemy, JWT |
+| [faith-model](https://github.com/kinhei/faith-model) | NELA-GT-2018 model-training workflow, feature extraction notebooks, and exported calibrated classifier | Python, Jupyter, scikit-learn, XGBoost |
 
 ## Architecture
 
